@@ -3,8 +3,10 @@
 Check my Giphy CLI: https://www.nuget.org/packages/GiphyCli
 
 💻 ASP.NET related at day, Electronics and home automation at night
+
 🚴 I ride Canyon bikes
 
+📝 Sometime a blog at [deltacode.be]([url](https://blog.deltacode.be))
 
 <!--
 **DavidDeSloovere/DavidDeSloovere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
