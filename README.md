@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Check my Giphy CLI: https://www.nuget.org/packages/GiphyCli
+Some items for my favorite tech stack:
+- Nuxt
+- Trigger.dev
+- Vercel
 
 💻 ASP.NET + Nuxt at day, Electronics and home automation at night
 
